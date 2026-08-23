@@ -2,9 +2,9 @@
 __pycache__/
 *.py[cod]
 .env
-website/files/.env
 
 # The current virtual environment lives alongside the source.
 website/*
 !website/files/
 !website/files/**
+website/files/.env

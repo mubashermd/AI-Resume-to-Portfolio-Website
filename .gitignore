@@ -1,0 +1,10 @@
+# Python bytecode and local environment files
+__pycache__/
+*.py[cod]
+.env
+website/files/.env
+
+# The current virtual environment lives alongside the source.
+website/*
+!website/files/
+!website/files/**
